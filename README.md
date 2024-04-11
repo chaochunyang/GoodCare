@@ -3,14 +3,14 @@
 
 ## Overview
 ### Toolkit
-- Frontend: React.js
+- **Frontend:** React.js
   - useContext, useForm, useEffect  
-- Backend: Node.js
+- **Backend:** Node.js
   - JWT Token
-- API: Axios
-- Database: AWS RDS (MySQL)
+- **API:** Axios
+- **Database:** AWS RDS (MySQL)
 - Other: RWD Design, Bootstrap5
-- 
+
 ### Purpose
 - **One-Stop Service**
 - **Professional and Reliable Information**
