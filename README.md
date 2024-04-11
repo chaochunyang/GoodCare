@@ -2,6 +2,16 @@
 <img width="1439" alt="image" src="https://github.com/chaochunyang/GoodCare/assets/155346531/dfa3593e-771f-4165-a29e-2f59a3dd47d6">
 
 ## Overview
+### Toolkit
+- Frontend: React.js
+  - useContext, useForm, useEffect  
+- Backend: Node.js
+  - JWT Token
+- API: Axios
+- Database: AWS RDS (MySQL)
+- Other: RWD Design, Bootstrap5
+- 
+### Purpose
 - **One-Stop Service**
 - **Professional and Reliable Information**
 - **User-Friendly Design**
